@@ -1,5 +1,5 @@
 # Notepad
-This notepad is created using Python GUI module Tkinter and non-relational database Mongodb. To connected mongodb to python Pymongo module has been used.
+This notepad is created using Python GUI module Tkinter and non-relational database Mongodb. To connected mongodb to python Pymongo module has been used. For this notepad mongodb localhost is used. Using MongoDB Atlas will upgrade it efficency. 
 ![Screenshot 2024-05-22 230225](https://github.com/Gourab-Chowdhury/notepad/assets/122721149/76f24690-0f51-4120-96ba-0a4702766b88)
 
 
