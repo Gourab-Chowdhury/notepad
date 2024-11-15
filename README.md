@@ -33,9 +33,33 @@ To run **Advanced Notepad**, you need the following:
   - `pygments` (for syntax highlighting).
   - `markdown2` (for Markdown rendering).
 
+Install Dependences
+```
+pip install reportlab pygments markdown2
+```
 ---
 
 ## Installation
 1. Clone this repository:
    ```bash
    git clone https://github.com/your-repo/advanced-notepad.git
+   ```
+
+
+# Usage
+## Menu Options:
+
+### File:
+* New File: Create a new blank tab.
+* Open File: Load a .txt file into a tab.
+* Save: Save changes to the current file.
+* Save As txt: Save the current content as a new .txt file.
+* Save as PDF: Export the current content to a .pdf file.
+
+### Edit:
+* Undo, Redo, Copy, Paste: Standard editing tools.
+
+### View:
+* Toggle between Dark Mode and Light Mode.
+* Enable/disable Focus Mode for fullscreen writing.
+* Preview Markdown content in a pop-up window.   
